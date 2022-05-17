@@ -1,0 +1,31 @@
+body {
+ background-color: tan; 
+}
+
+h1 {
+  color: red;
+  font-size: 24px;
+  font-family: Arial,hervetica, sans-serif;
+}
+
+img{
+  width: 70%;
+}
+
+p, li {
+  color: white;
+  font-family: Arial, hervetica, sans-serif;
+}
+
+.header {
+  background-color: orange;
+  padding-left:  10px;
+  border: 1px solid black;
+}
+
+.footer {
+  background: green;
+  color: black;
+  border: 1px solid white;
+  padding-left: 10px 
+}
